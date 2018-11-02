@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "closure #1 in MasterViewController.savePdf(urlString:fileName:):MasterViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "String(contentsOf: url!)">
+            </PersistentString>
+            <PersistentString
+               value = "String(contentsOf: url!, encoding: String.Encoding.utf16)">
+            </PersistentString>
+            <PersistentString
+               value = "String(contentsOf: url!, encoding: String.Encoding.utf32)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MasterViewController.pdfFileAlreadySaved(url:fileName:):MasterViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "&quot;iOSApp3-\(fileName).pdf&quot;">
+            </PersistentString>
+            <PersistentString
+               value = "url.description">
+            </PersistentString>
+            <PersistentString
+               value = "url.description.contains(&quot;iOSApp3-\(fileName).pdf&quot;)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "DetailViewController.loadView():DetailViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "pdfView">
+            </PersistentString>
+            <PersistentString
+               value = "isWebView">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "DetailViewController.viewDidLoad():DetailViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "filenameOrURL">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "DetailViewController.configureView():DetailViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "url.description.contains(&quot;iOSApp3-\(filenameorurl).pdf&quot;)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MasterViewController.prepare(for:sender:):MasterViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "indexPath.row">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
